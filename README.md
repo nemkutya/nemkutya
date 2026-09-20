@@ -3,19 +3,6 @@
 🦝 "If it breaks, I'll fix it.
 If it's working, I'll optimize it until it breaks again."
 
-.-"""-.  /
-
-/       /    \    
-/   .-.  .  .-. \       
-|   /   \   /   \ |
-|  |  0  | |  0  ||
-
-\  _/ . _/ /
-
-'-._/_.-'
-
-/   ||   \
-
 <div align="center">
 
 [![Fedora](https://img.shields.io/badge/OS-Fedora%20Linux-blue?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
