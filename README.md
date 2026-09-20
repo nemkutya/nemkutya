@@ -1,6 +1,6 @@
 # 🦝 Sudo Trash Panda | Ráduly Tamás
 
-<div align="center">
+
 
 .-"""-.  /
 
@@ -14,6 +14,8 @@
 '-._/_.-'
 
 /   ||   \
+
+<div align="center">
 
 [![Fedora](https://img.shields.io/badge/OS-Fedora%20Linux-blue?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 [![Proxmox](https://img.shields.io/badge/Virtualization-Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com)
