@@ -12,7 +12,7 @@ If it's working, I'll optimize it until it breaks again."
 
 ---
 
-### 📍 Systems Administrator & Developer based in Budapest, Hungary
+### 📍 Systems Administrator & Developer Student based in Budapest, Hungary
 
 *Diving deep into complex infrastructure, hypervisors, and networks to make them run flawlessly.*
 
