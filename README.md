@@ -1,11 +1,11 @@
 # 🦝 Sudo Trash Panda | Ráduly Tamás
 
-
-
+🦝 "If it breaks, I'll fix it.
+If it's working, I'll optimize it until it breaks again."
 .-"""-.  /
 
-/       /    \    🦝 "If it breaks, I'll fix it.
-/   .-.  .  .-. \       If it's working, I'll optimize it until it breaks again."
+/       /    \    
+/   .-.  .  .-. \       
 |   /   \   /   \ |
 |  |  0  | |  0  ||
 
