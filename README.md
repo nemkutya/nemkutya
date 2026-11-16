@@ -26,7 +26,6 @@ If it's working, I'll optimize it until it breaks again."
 - ⚡ **Virtualization & Infra:** Deploying and maintaining hypervisors using **Proxmox VE** and containerized services.
 - 🌐 **Networking:** Hands-on experience configuring and managing school/enterprise network architectures.
 - 🖨️ **3D Printing:** Tweaking slicing pipelines, and hardware modifications.
-- 🎛️ **Transit Telemetry & Operations:** Advanced transit routing, operational telemetry, and simulation architectures.
 - 📸 **Audio/Visual & Photography:** Sound engineering and post-processing RAW digital captures.
 
 ---
